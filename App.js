@@ -53,9 +53,7 @@ const App = () => {
       </FirebaseContext>
     </>
   );
-  //testing new branch
-  //testing merge
-  //new commit
+  //deleted comments
 }
 
 export default App;
