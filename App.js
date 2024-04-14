@@ -53,8 +53,6 @@ const App = () => {
       </FirebaseContext>
     </>
   );
-//this is a test statement
-  //prueba
 }
 
 export default App;
